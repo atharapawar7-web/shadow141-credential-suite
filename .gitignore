@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+lab_wordlist.txt
+demo_wordlist.txt
+custom_test_list.txt
+lab_report.json
+lab_report.txt
+list.txt
+1234
+hii
+*.log
